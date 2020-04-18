@@ -4,6 +4,6 @@ import Layout from "../components/layout"
 export default () => (
   <Layout>
     <h1>ANOTHER New page</h1>
-    <p>Madeo for a minimal reproduction... Will I need a restart?</p>
+    <p>Made for a minimal reproduction... Will I need a restart?</p>
   </Layout>
 )
